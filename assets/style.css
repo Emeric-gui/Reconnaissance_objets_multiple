@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.main_page{
+    background-color: #FFFFFF;
+}
+
+.header_title{
+    text-align: center;
+    font-size: 350%;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.upload_line{
+    align-items: center;
+    display: inline-block;
+    width: 80%;
+    height: 60px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.upload_line_middle{
+    background-color: #8c6a2b;
+    align-items: center;
+    display: inline-block;
+    width: 80%;
+    height: 60px;
+    border-width: 1px;
+    border-style: dashed;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#button{
+    height:50px;
+    border-radius: 5px;
+    width: 30%;
+    background-color: #487cff;
+    border: None;
+    margin-right: 10px;
+    padding-right: -10px;
+}
+
+#button_refresh{
+    height:50px;
+    border-radius: 5px;
+    width: 30%;
+    background-color: #3d328f;
+    border: None;
+    margin-left: 10px;
+    padding-left: -10px;
+}
+
+#button_refresh:hover{
+    cursor: pointer;
+}
+
+#button:hover{
+    cursor: pointer;
+}
+
+.texte{
+    color: black;
+    font-weight: bolder;
+    font-size: 1em;
+}
+.texte_button{
+    color: white;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+#link{
+    color: #1EAEDB;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.toVideo{
+    width: 80%;
+    background-color: #FFFFFF;
+    border-radius: 50px;
+    border: None;
+}
+
+
+
